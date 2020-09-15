@@ -1,0 +1,23 @@
+{
+  "name": "termichat-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschmold/termichat-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jschmold/termichat-client/issues"
+  },
+  "homepage": "https://github.com/jschmold/termichat-client#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "rxjs": "^6.6.3"
+  }
+}
